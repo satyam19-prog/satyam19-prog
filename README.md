@@ -17,9 +17,9 @@
 
 🏆 Competitive Programming
 
-    💠 LeetCode: 1482
+    💠 LeetCode: 1698
     
-    🟣 Codeforces: 1028 (Newbie)
+    🟣 Codeforces: 1273 (Pupil)
     
     🔶 CodeChef: 1426
     
